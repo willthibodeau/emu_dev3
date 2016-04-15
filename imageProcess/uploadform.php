@@ -1,6 +1,6 @@
 <?php 
 require_once('../util/valid_admin.php');
-include'../view/admin_header.php';
+include'../view/admin-header.php';
 ?>
 
 <div class="contentWrapper"> 

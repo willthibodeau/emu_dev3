@@ -1,0 +1,13 @@
+text dark blue #405952  rgb(64, 89, 82)
+gray	#9C9B7A
+light background #FFD393  rgb(255, 234, 192)
+light brown #FF974F
+orange #F54F29
+
+links rgb(22, 47, 175)
+
+link hover rgb(16, 122, 220)
+
+sans-serif 	font-family: Tahoma,Verdana,Segoe,sans-serif; 
+serif 	font-family: Lucida Bright,Georgia,serif; 
+monospaced 	font-family: Consolas,monaco,monospace; 

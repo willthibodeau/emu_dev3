@@ -7,11 +7,9 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="../../favicon.ico">
-
+    <link rel="icon" href="../img/favicon.png">
+    <link rel="stylesheet" href="/emu_dev3/css/style.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
-
-
     <title>Elitemeats Utah</title>
 
     <!-- Bootstrap core CSS -->
@@ -37,7 +35,7 @@
   <body>
 
     <!-- Fixed navbar -->
-   <!--  <nav class="navbar navbar-default navbar-fixed-top">
+     <nav class="navbar navbar-default navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
@@ -56,24 +54,26 @@
           </ul>
         </div>
       </div>
-    </nav> -->
+    </nav> 
 
-
+<!-- <div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-12 col-md-12 col-lg-12">  
 
     <nav class="navbar navbar-default navbar-fixed-top">
-  <div class="container-fluid">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="#">Elite Meats Utah</a>
-    </div>
+      <div class="container-fluid">
+        
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Elite Meats Utah</a>
+        </div>
 
-    <!-- Collect the nav links, forms, and other content for toggling -->
+   
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li class="active"><a href="/emu_dev3/index.php">Home</a></li>
@@ -94,13 +94,7 @@
 			<ul id="login-dp" class="dropdown-menu">
 				<li>
 					 <div class="row">
-							<div class="col-md-12">
-								<!-- Login via
-								<div class="social-buttons">
-									<a href="#" class="btn btn-fb"><i class="fa fa-facebook"></i> Facebook</a>
-									<a href="#" class="btn btn-tw"><i class="fa fa-twitter"></i> Twitter</a>
-								</div> -->
-                               <!--  or -->
+							<div class="col-md-12"> 
 								 <form class="form" role="form" method="post" action="login" accept-charset="UTF-8" id="login-nav">
 										<div class="form-group">
 											 <label class="sr-only" for="exampleInputEmail2">User Name</label>
@@ -109,15 +103,12 @@
 										<div class="form-group">
 											 <label class="sr-only" for="exampleInputPassword2">Password</label>
 											 <input type="password" class="form-control" id="exampleInputPassword2" placeholder="Password" required>
-                                             <!-- <div class="help-block text-right"><a href="">Forget the password ?</a></div> -->
+                                           
 										</div>
 										<div class="form-group">
 											 <button type="submit" class="btn btn-primary btn-block">Sign in</button>
 										</div>
 										<div class="checkbox">
-											<!--  <label>
-											 <input type="checkbox"> keep me logged-in
-											 </label> -->
 										</div>
 								 </form>
 							</div>
@@ -128,9 +119,13 @@
 				</li>
 			</ul>
         </li>
-      </ul>
-    </div><!-- /.navbar-collapse -->
-  </div><!-- /.container-fluid -->
-</nav>
+      </ul> -->
+    <!-- </div>/.navbar-collapse -->
+  <!-- </div>/.container-fluid -->
+<!-- </nav>
+</div>
+</div>
+</div> -->
 
 <!-- http://bootsnipp.com/snippets/xalem -->
+
